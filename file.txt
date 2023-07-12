@@ -1,0 +1,1 @@
+This a new file added to Git_Branching repository in testing branch.
